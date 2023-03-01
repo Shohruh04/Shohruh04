@@ -1,7 +1,7 @@
 
 
 <!---
-Shohruh04/ReadMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shohruh04/Shohruh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
