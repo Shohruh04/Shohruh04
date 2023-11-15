@@ -51,7 +51,6 @@ Software engineer
 
 
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohruh04&count_private=true&line_height=33&theme=dark#gh-dark-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohruh04&langs_count=4&count_private=true&theme=dark#gh-dark-mode-only" />
-</a></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shohruh04&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
