@@ -1,3 +1,6 @@
+Hi 👋 My name is Shohruh Kudratullaev
+===============================
+
 
 ### Skills
 
