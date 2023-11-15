@@ -22,6 +22,12 @@
 
 <p align="left"><a href="https://www.github.com/Shohruh04/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shohruh_2445/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in//in/shohruh-kudratullaev-307b8a1b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
+### Bages
+
+<b>My GitHub Stats</b>
+
+
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Shohruh04&count_private=true&line_height=33&theme=dark#gh-dark-mode-only" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shohruh04&langs_count=4&count_private=true&theme=dark#gh-dark-mode-only" />
