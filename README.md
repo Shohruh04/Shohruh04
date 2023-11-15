@@ -1,8 +1,11 @@
 Hi 👋 My name is Shohruh Kudratullaev
 ===============================
 
-Developer
+
+
+Software engineer
 -----------------------------
+
 
 ### Skills
 
