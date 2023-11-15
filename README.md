@@ -25,7 +25,7 @@
 
 ### Bages
 
-<b>My GitHub Stats</b>
+
 
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
