@@ -42,16 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohruh04&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-### 📌 Pinned Repositories
-
-Check out my featured projects below!
-
-### 🌱 Currently Learning
-
-- Advanced TypeScript patterns
-- GraphQL
-- Docker & Kubernetes
-
 ### 💬 Let's Connect
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech!
