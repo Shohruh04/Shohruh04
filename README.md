@@ -1,14 +1,8 @@
-Hi 👋 My name is Shohruh Kudratullaev
-===============================
+# Hi 👋 My name is Shohruh Kudratullaev
 
-
-
-Software engineer
------------------------------
-
+## Software engineer
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,13 +24,54 @@ Software engineer
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
+### 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=dark" alt="GitHub stats" />
+</div>
 
-### Bages
-
-
-
+### 🔥 Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohruh04&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
+
+### 🔝 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohruh04&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+### 📌 Pinned Repositories
+
+Check out my featured projects below!
+
+### 🌱 Currently Learning
+
+- Advanced TypeScript patterns
+- GraphQL
+- Docker & Kubernetes
+
+### 💬 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/Shohruh04/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>
+<a href="http://www.instagram.com/shohruh_2445/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+</a> 
+<a href="https://www.linkedin.com/in/shohruh-kudratullaev-307b8a1b9/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shohruh04&color=blue" alt="Profile Views Counter" />
 </div>
