@@ -26,25 +26,22 @@
 
 ## 🚀 **About Me**
 
-```javascript
-const shohruh = {
-    role: "Software Engineer",
-    focus: ["Frontend Development", "React Ecosystem", "Performance Optimization"],
-    currentlyLearning: ["Advanced TypeScript Patterns", "Micro-frontends", "Web3"],
-    experience: "5+ years",
-    
-    workingWith: {
-        frameworks: ["React", "Next.js", "TypeScript"],
-        styling: ["TailwindCSS", "Material-UI", "Sass"],
-        stateManagement: ["Redux", "Zustand", "React Query"],
-        testing: ["Jest", "React Testing Library"],
-        tools: ["Vite", "Webpack", "Figma"]
-    },
-    
-    passion: "Building sleek UIs and real-time, high-performance web apps",
-    openTo: ["Collaboration", "Open Source", "Innovative Projects"]
-};
-```
+<div align="center">
+
+<table>
+<tr><td>
+
+👨‍💻 **Role:** Software Engineer  
+🎯 **Focus:** Frontend Development, React Ecosystem, Performance Optimization  
+📚 **Currently Learning:** Advanced TypeScript Patterns, Micro-frontends, Web3  
+⚙️ **Experience:** 5+ years  
+🔥 **Passion:** Building sleek UIs and real-time, high-performance web apps  
+🤝 **Open To:** Collaboration, Open Source, Innovative Projects  
+
+</td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -124,15 +121,15 @@ Writing clean, maintainable, and scalable code following industry standards
 
 ## 🌟 **Current Focus**
 
-```javascript
-const currentGoals = [
-    "🔹 Mastering advanced TypeScript patterns",
-    "🔹 Exploring micro-frontend architectures",
-    "🔹 Contributing to open-source React projects",
-    "🔹 Building real-time collaborative applications",
-    "🔹 Optimizing web vitals and performance metrics"
-];
-```
+<div align="center">
+
+✅ Mastering advanced TypeScript patterns  
+✅ Exploring micro-frontend architectures  
+✅ Contributing to open-source React projects  
+✅ Building real-time collaborative applications  
+✅ Optimizing web vitals and performance metrics  
+
+</div>
 
 ---
 
