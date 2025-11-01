@@ -43,43 +43,30 @@
 
 </div>
 
+---
+
 ## 💻 **Tech Arsenal**
 
 <div align="center">
 
 ### **Core Technologies**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,vite&theme=dark" alt="Core Tech" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux&theme=dark" alt="Core Tech" />
 </p>
 
 ### **Styling & UI**
 <p>
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,radix,css,html,sass&theme=dark" alt="Styling" />
-<br/>
-<img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
-</p>
-
-### **Real-Time & Media**
-<p>
-<img src="https://img.shields.io/badge/WebRTC-%23000000.svg?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-<img src="https://img.shields.io/badge/PeerJS-%235C2D91.svg?style=for-the-badge&logo=peerjs&logoColor=white" alt="PeerJS"/>
-<img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-<img src="https://img.shields.io/badge/FaceAPI.js-%234285F4.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="FaceAPI.js"/>
-<img src="https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
-</p>
-
-### **State & Data**
-<p>
-<img src="https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs&theme=dark" alt="DB & Backend"/>
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,css,html&theme=dark" alt="Styling" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,webpack,jest,tensorflow&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vite,webpack,git,figma,jest,nodejs,mysql,tensorflow&theme=dark" alt="Tools" />
 </p>
 
 </div>
+
+---
 
 ## 📊 **GitHub Analytics**
 
