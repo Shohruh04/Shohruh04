@@ -139,7 +139,7 @@ Writing clean, maintainable, and scalable code following industry standards
 
 **Open for freelance projects, collaborations, and full-time opportunities!**
 
-[![Email](https://img.shields.io/badge/📧_Email-shohruhqudratullaev@gmail.com-D14836?style=for-the-badge)](mailto:shohruhqudratullaev@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-shohruhqudratullaev2455@gmail.com-D14836?style=for-the-badge)](mailto:shohruhqudratullaev@gmail.com)
 
 *Always excited to discuss React, frontend architecture, or innovative web projects!*
 
