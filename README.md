@@ -1,66 +1,155 @@
-# 👋 Hi, I'm Shohruh Kudratullaev
+<div align="center">
 
-### 💻 Software Engineer | Frontend Developer | React Enthusiast
+<!-- 3D Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shohruh%20Kudratullaev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-I’m a frontend engineer, passionate about crafting sleek UIs and building real-time, high-performance web apps.  
-Currently working with **React**, **TypeScript**, and **Next.js** — always exploring cool new tools that push the web forward.
+<!-- 3D Rotating Badge -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Frontend+Engineer+%7C+React+Specialist;Building+High-Performance+Web+Applications;5%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### ⚡ Tech Stack
+<div align="center">
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36" alt="Jest" /></a>
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
+### 🎯 **Crafting Exceptional User Experiences**
+
+*Transforming ideas into elegant, performant React applications*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Shohruh04)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohruhqudratullaev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🚀 **About Me**
+
+```typescript
+const shohruh = {
+    role: "Software Engineer",
+    focus: ["Frontend Development", "React Ecosystem", "Performance Optimization"],
+    currentlyLearning: ["Advanced TypeScript Patterns", "Micro-frontends", "Web3"],
+    experience: "5+ years",
+    
+    workingWith: {
+        frameworks: ["React", "Next.js", "TypeScript"],
+        styling: ["TailwindCSS", "Material-UI", "Sass"],
+        stateManagement: ["Redux", "Zustand", "React Query"],
+        testing: ["Jest", "React Testing Library"],
+        tools: ["Vite", "Webpack", "Figma"]
+    },
+    
+    passion: "Building sleek UIs and real-time, high-performance web apps",
+    openTo: ["Collaboration", "Open Source", "Innovative Projects"]
+};
+```
+
+---
+
+## 💻 **Tech Arsenal**
+
+<div align="center">
+
+### **Core Technologies**
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux&theme=dark" alt="Core Tech" />
 </p>
 
----
+### **Styling & UI**
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,css,html&theme=dark" alt="Styling" />
+</p>
 
-### 📊 GitHub Stats
+### **Tools & Platforms**
+<p>
+<img src="https://skillicons.dev/icons?i=vite,webpack,git,figma,jest,nodejs,mysql,tensorflow&theme=dark" alt="Tools" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </div>
 
 ---
 
-### 🔥 Streak Stats
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shohruh04&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shohruh04&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohruh04&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shohruh04&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
 
-### 🚀 Top Languages
+## 🏆 **Achievements & Highlights**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohruh04&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-### 💬 Let’s Connect
+## 🎨 **What I Bring to the Table**
 
-💌 **Email:** [shohruhqudratullaev@gmail.com](mailto:shohruhqudratullaev@gmail.com)  
-🌐 **Portfolio:** [github.com/Shohruh04](https://github.com/Shohruh04)  
-💼 Always open to collaborating on exciting projects or sharing dev knowledge!
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### ⚡ **Performance**
+Optimizing React applications for lightning-fast load times and smooth interactions
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 **User-Centric**
+Crafting intuitive interfaces that users love to interact with
+
+</td>
+<td align="center" width="33%">
+
+### 🔧 **Best Practices**
+Writing clean, maintainable, and scalable code following industry standards
+
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shohruh04&color=blue" alt="Profile Views Counter" />
-</div>
+## 🌟 **Current Focus**
 
+```javascript
+const currentGoals = [
+    "🔹 Mastering advanced TypeScript patterns",
+    "🔹 Exploring micro-frontend architectures",
+    "🔹 Contributing to open-source React projects",
+    "🔹 Building real-time collaborative applications",
+    "🔹 Optimizing web vitals and performance metrics"
+];
+```
+
+---
+
+## 📫 **Let's Build Something Amazing**
+
+<div align="center">
+
+**Open for freelance projects, collaborations, and full-time opportunities!**
+
+[![Email](https://img.shields.io/badge/📧_Email-shohruhqudratullaev@gmail.com-D14836?style=for-the-badge)](mailto:shohruhqudratullaev@gmail.com)
+
+*Always excited to discuss React, frontend architecture, or innovative web projects!*
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Shohruh04&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
