@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Shohruh04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohruhqudratullaev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohruh-kudratullaev/)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 🚀 **About Me**
 
-```typescript
+```javascript
 const shohruh = {
     role: "Software Engineer",
     focus: ["Frontend Development", "React Ecosystem", "Performance Optimization"],
