@@ -82,16 +82,6 @@
 
 ---
 
-## 🏆 **Achievements & Highlights**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎨 **What I Bring to the Table**
 
 <table align="center">
