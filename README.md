@@ -410,64 +410,6 @@ const shohruh = {
 
 <br/>
 
-<!-- Animated Philosophy Statements -->
-<div align="center">
-
-### 🎯 Core Principles I Follow
-
-<br/>
-
-<!-- Animated badges that represent philosophies -->
-<img src="https://img.shields.io/badge/🔥_DRY-Don't_Repeat_Yourself-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/💎_KISS-Keep_It_Simple_Stupid-58a6ff?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🧩_SOLID-Design_Principles-79c0ff?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🎨_Clean_Code-Readable_>_Clever-a855f7?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🧪_TDD-Test_First_Code_Later-22c55e?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📦_Modularity-Small_Focused_Units-f59e0b?style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🚀_Ship_Fast-But_Don't_Break_Things-ec4899?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🔄_Refactor-Continuously_Improve-06b6d4?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/📖_Document-Future_You_Will_Thank_You-84cc16?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
-<br/>
-
-<!-- Final rotating quote section -->
-<div align="center">
-
-### 🌟 Quote of the Moment
-
-<!-- Large featured quote that changes on every load -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote_length=long" alt="Featured Quote"/>
-
-<br/><br/>
-
-<!-- Another set of rotating quotes -->
-<table>
-<tr>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Dracula Quote"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Nord Quote"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Gruvbox Quote"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
