@@ -138,39 +138,6 @@ const shohruh = {
 <br/>
 
 
-<div align="center">
-
-<!-- Stats Cards Row -->
-<a href="https://github.com/Shohruh04">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Shohruh04">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Top Languages Donut -->
-<a href="https://github.com/Shohruh04">
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shohruh04&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
