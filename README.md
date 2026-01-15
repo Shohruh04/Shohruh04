@@ -137,8 +137,6 @@ const shohruh = {
 
 <br/>
 
-<!-- GitHub Stats Section -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32">&nbsp; GitHub Analytics
 
 <div align="center">
 
