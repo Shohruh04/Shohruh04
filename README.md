@@ -73,14 +73,35 @@ const shohruh: Developer = {
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
+
+<!-- Using alternative reliable providers -->
+<a href="https://github.com/Shohruh04">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Shohruh04">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shohruh04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
+
+<!-- Top Languages with donut chart -->
+<a href="https://github.com/Shohruh04">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shohruh04&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
 </div>
 
 <br/>
@@ -93,8 +114,6 @@ const shohruh: Developer = {
 <tr>
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/speed.png" width="60"/>
-
 ### ⚡ Performance
 
 Lighthouse scores 95+<br/>
@@ -103,8 +122,6 @@ Lightning-fast interactions
 
 </td>
 <td width="33%" align="center">
-
-<img src="https://img.icons8.com/fluency/96/design.png" width="60"/>
 
 ### 🎨 Design
 
@@ -115,8 +132,6 @@ Smooth animations & transitions
 </td>
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
-
 ### 🧩 Architecture
 
 Clean, maintainable code<br/>
@@ -126,6 +141,22 @@ Modern best practices
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+## 🌟 Current Focus
+
+<div align="center">
+
+```
+✅ Mastering advanced TypeScript patterns
+✅ Exploring micro-frontend architectures  
+✅ Contributing to open-source React projects
+✅ Building real-time collaborative applications
+✅ Optimizing web vitals and performance metrics
+```
 
 </div>
 
