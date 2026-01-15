@@ -5,7 +5,7 @@
 <div align="center">
   
 <!-- Animated Wave Hand -->
-<img src="https://raw.githubusercontent.com/MartinHeinworksz/MartinHeinz/master/wave.gif" width="35">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -311,12 +311,180 @@ const shohruh = {
 
 <br/>
 
-<!-- Quote Section -->
+<!-- ENHANCED Dev Philosophy Section with Multiple Rotating Quotes -->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="32">&nbsp; Dev Philosophy
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Dev Quote"/>
+<!-- Animated Code Philosophy Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%AD+Wisdom+that+guides+my+code...;%E2%9C%A8+Philosophy+for+better+software...;%F0%9F%8E%AF+Principles+I+live+by..." alt="Philosophy Header" />
+
+<br/><br/>
+
+<!-- Quote Card 1 - Changes on every page load -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<!-- Quote Card 2 - Different theme, different quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote 2"/>
+
+<br/><br/>
+
+<!-- Quote Card 3 - Another theme variation -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&border=true" alt="Random Dev Quote 3"/>
+
+</div>
+
+<br/>
+
+<!-- Personal Coding Mantras with Typing Animation -->
+<div align="center">
+
+### 💡 My Coding Mantras
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=200&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%93+John+Johnson;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%93+Cory+House;%22Simplicity+is+the+soul+of+efficiency.%22+%E2%80%93+Austin+Freeman;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%93+Kent+Beck;%22Programs+must+be+written+for+people+to+read.%22+%E2%80%93+Abelson+%26+Sussman" alt="Coding Mantras" />
+
+</div>
+
+<br/>
+
+<!-- Philosophy Cards Grid -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Think First
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/>
+
+*"Weeks of coding can save you hours of planning"*
+
+</td>
+<td align="center" width="33%">
+
+### ♻️ Iterate Always
+
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="80"/>
+
+*"Perfect is the enemy of good enough shipped"*
+
+</td>
+<td align="center" width="33%">
+
+### 📚 Never Stop Learning
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"/>
+
+*"The expert was once a beginner"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- More Rotating Quotes with Different Styles -->
+<div align="center">
+
+<!-- Vertical Quote Cards -->
+<table>
+<tr>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Quote Dark"/>
+</td>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true" alt="Quote Algolia"/>
+</td>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true" alt="Quote Monokai"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Animated Philosophy Statements -->
+<div align="center">
+
+### 🎯 Core Principles I Follow
+
+<br/>
+
+<!-- Animated badges that represent philosophies -->
+<img src="https://img.shields.io/badge/🔥_DRY-Don't_Repeat_Yourself-ff6b6b?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💎_KISS-Keep_It_Simple_Stupid-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🧩_SOLID-Design_Principles-79c0ff?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎨_Clean_Code-Readable_>_Clever-a855f7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🧪_TDD-Test_First_Code_Later-22c55e?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📦_Modularity-Small_Focused_Units-f59e0b?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚀_Ship_Fast-But_Don't_Break_Things-ec4899?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🔄_Refactor-Continuously_Improve-06b6d4?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📖_Document-Future_You_Will_Thank_You-84cc16?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- Final rotating quote section -->
+<div align="center">
+
+### 🌟 Quote of the Moment
+
+<!-- Large featured quote that changes on every load -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&quote_length=long" alt="Featured Quote"/>
+
+<br/><br/>
+
+<!-- Another set of rotating quotes -->
+<table>
+<tr>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" alt="Dracula Quote"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" alt="Nord Quote"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&border=true" alt="Gruvbox Quote"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Fun animated quote ticker -->
+<div align="center">
+
+### 💬 Developer Wisdom Ticker
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=800&color=8b949e&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%93+Linus+Torvalds;%E2%80%9CThe+best+error+message+is+the+one+that+never+shows+up.%E2%80%9D+%E2%80%93+Thomas+Fuchs;%E2%80%9CCode+never+lies%2C+comments+sometimes+do.%E2%80%9D+%E2%80%93+Ron+Jeffries;%E2%80%9CSimplicity+is+prerequisite+for+reliability.%E2%80%9D+%E2%80%93+Edsger+Dijkstra;%E2%80%9CGood+code+is+its+own+best+documentation.%E2%80%9D+%E2%80%93+Steve+McConnell;%E2%80%9CExperience+is+the+name+everyone+gives+to+their+mistakes.%E2%80%9D+%E2%80%93+Oscar+Wilde;%E2%80%9CThe+only+way+to+learn+a+new+programming+language+is+by+writing+programs+in+it.%E2%80%9D+%E2%80%93+Dennis+Ritchie;%E2%80%9CIt's+not+a+bug+%E2%80%93+it's+an+undocumented+feature.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CMeasuring+programming+progress+by+lines+of+code+is+like+measuring+aircraft+progress+by+weight.%E2%80%9D+%E2%80%93+Bill+Gates;%E2%80%9CThe+function+of+good+software+is+to+make+the+complex+appear+simple.%E2%80%9D+%E2%80%93+Grady+Booch" alt="Quote Ticker" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=700&color=58a6ff&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CThere+are+only+two+hard+things%3A+cache+invalidation+and+naming+things.%E2%80%9D+%E2%80%93+Phil+Karlton;%E2%80%9CThe+most+important+property+of+a+program+is+whether+it+accomplishes+the+user's+intentions.%E2%80%9D+%E2%80%93+C.A.R.+Hoare;%E2%80%9CDeleted+code+is+debugged+code.%E2%80%9D+%E2%80%93+Jeff+Sickel;%E2%80%9CA+language+that+doesn't+affect+the+way+you+think+is+not+worth+knowing.%E2%80%9D+%E2%80%93+Alan+Perlis;%E2%80%9CTruth+can+only+be+found+in+one+place%3A+the+code.%E2%80%9D+%E2%80%93+Robert+C.+Martin;%E2%80%9COptimism+is+an+occupational+hazard+of+programming.%E2%80%9D+%E2%80%93+Kent+Beck;%E2%80%9CJava+is+to+JavaScript+what+car+is+to+carpet.%E2%80%9D+%E2%80%93+Chris+Heilmann;%E2%80%9CSoftware+is+like+entropy%3A+difficult+to+grasp%2C+weighs+nothing%2C+obeys+the+2nd+law+of+thermodynamics.%E2%80%9D+%E2%80%93+Norman+Augustine" alt="Quote Ticker 2" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=900&color=79c0ff&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CIf+debugging+is+removing+bugs%2C+then+programming+must+be+putting+them+in.%E2%80%9D+%E2%80%93+Edsger+Dijkstra;%E2%80%9CWalking+on+water+and+developing+software+from+specs+are+easy+if+both+are+frozen.%E2%80%9D+%E2%80%93+Edward+Berard;%E2%80%9CAlways+code+as+if+the+person+maintaining+your+code+is+a+violent+psychopath.%E2%80%9D+%E2%80%93+John+Woods;%E2%80%9COne+man's+crappy+software+is+another+man's+full+time+job.%E2%80%9D+%E2%80%93+Jessica+Gaston;%E2%80%9CDocumentation+is+a+love+letter+you+write+to+your+future+self.%E2%80%9D+%E2%80%93+Damian+Conway;%E2%80%9CIn+theory%2C+there's+no+difference+between+theory+and+practice.+In+practice%2C+there+is.%E2%80%9D+%E2%80%93+Yogi+Berra;%E2%80%9CThe+best+code+is+no+code+at+all.%E2%80%9D+%E2%80%93+Jeff+Atwood;%E2%80%9CFix+the+cause%2C+not+the+symptom.%E2%80%9D+%E2%80%93+Steve+Maguire" alt="Quote Ticker 3" />
 
 </div>
 
