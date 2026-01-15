@@ -1,85 +1,153 @@
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=200&section=header&text=Shohruh%20Kudratullaev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✨%20Frontend%20Engineer%20%7C%20React%20Specialist%20%7C%20UI/UX%20Enthusiast%20✨&descAlignY=55&descSize=16"/>
+
+<!-- Animated Introduction -->
 <div align="center">
+  
+<!-- Animated Wave Hand -->
+<img src="https://raw.githubusercontent.com/MartinHeinworksz/MartinHeinz/master/wave.gif" width="35">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Shohruh%20Kudratullaev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20Specialist&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Animated Subtitle -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+High-Performance+Web+Applications;%E2%9C%A8+5%2B+Years+Crafting+Exceptional+User+Experiences;%F0%9F%8E%AF+React+%7C+TypeScript+%7C+Next.js+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe!;%F0%9F%92%BB+5%2B+Years+Building+Web+Excellence;%E2%9A%A1+React+%7C+TypeScript+%7C+Next.js+%7C+Node.js;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Experiences" alt="Typing SVG" />
 </a>
 
-<!-- Quick Links -->
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Shohruh04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohruh-kudratullaev/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohruhqudratullaev2455@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shohruh04)
+<!-- Animated Badges Row 1 -->
+<p>
+  <a href="https://github.com/Shohruh04?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Shohruh04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shohruh04?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Shohruh04?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shohruh04&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
+</p>
 
-<br/>
+<!-- Social Links with Hover Animation -->
+<p>
+  <a href="https://github.com/Shohruh04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shohruh-kudratullaev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shohruhqudratullaev2455@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/Shohruh04">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
-<!-- Animated Divider -->
+<!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+<!-- About Me Section with Animation -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; About Me
 
-```typescript
-const shohruh: Developer = {
-    role: "Software Engineer",
-    location: "🌍 Ready for Remote Work",
-    experience: "5+ years",
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<br/>
+
+```javascript
+const shohruh = {
+    pronouns: "He" | "Him",
+    location: "🌍 Open to Remote & Relocation",
     
-    expertise: {
-        frontend: ["React", "Next.js", "TypeScript", "Redux"],
-        styling: ["Tailwind CSS", "Material UI", "Styled Components"],
-        testing: ["Jest", "React Testing Library", "Cypress"],
-        tools: ["Vite", "Webpack", "Git", "Figma"]
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+    
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Redux", "Zustand"],
+            css: ["Tailwind", "Material UI", "Styled Components", "SASS"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+        tools: ["Git", "Docker", "Webpack", "Vite", "Figma"]
     },
     
-    currentFocus: [
-        "🔥 Advanced TypeScript Patterns",
-        "🏗️ Micro-frontend Architecture",
-        "⚡ Web Performance Optimization",
-        "🌐 Web3 & Blockchain Integration"
-    ],
-    
-    passion: "Building sleek UIs that users love ❤️"
+    currentFocus: "Building scalable React applications",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
+<br clear="both"/>
+
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Skills Section with Animated Icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">&nbsp; Tech Stack & Skills
 
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **Frontend Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| **State Management** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) |
-| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) |
-| **Build Tools** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
-| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
-| **Tools & More** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+<!-- Animated Skill Icons -->
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,redux,nodejs&theme=dark&perline=6" alt="Skills"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,styledcomponents,html,css&theme=dark&perline=6" alt="Skills"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=vite,webpack,git,github,docker,figma&theme=dark&perline=6" alt="Skills"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,jest,cypress&theme=dark&perline=6" alt="Skills"/>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+<!-- Detailed Skills Table -->
+<details>
+<summary><b>📊 Detailed Skill Breakdown</b></summary>
+<br/>
 
 <div align="center">
 
-<!-- Using alternative reliable providers -->
+| 🎯 Category | 💻 Technologies | 📈 Proficiency |
+|:----------:|:---------------|:-------------:|
+| **Frontend Frameworks** | React.js, Next.js, Gatsby | ████████████████████ 100% |
+| **Languages** | TypeScript, JavaScript ES6+ | ████████████████████ 100% |
+| **State Management** | Redux Toolkit, Zustand, React Query, Context API | ███████████████████░ 95% |
+| **Styling** | Tailwind CSS, Material UI, Styled Components, SASS/SCSS | ████████████████████ 100% |
+| **Testing** | Jest, React Testing Library, Cypress, Playwright | ████████████████░░░░ 80% |
+| **Build Tools** | Vite, Webpack, Rollup, Parcel | ███████████████████░ 95% |
+| **Version Control** | Git, GitHub, GitLab, Bitbucket | ████████████████████ 100% |
+| **Backend** | Node.js, Express, REST APIs, GraphQL | ████████████████░░░░ 80% |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase | ███████████████░░░░░ 75% |
+| **DevOps** | Docker, CI/CD, Vercel, Netlify, AWS | ██████████████░░░░░░ 70% |
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32">&nbsp; GitHub Analytics
+
+<div align="center">
+
+<!-- Stats Cards Row -->
 <a href="https://github.com/Shohruh04">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Shohruh04">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideNums=58a6ff&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -88,55 +156,117 @@ const shohruh: Developer = {
 
 <div align="center">
 
-<!-- Top Languages with donut chart -->
+<!-- Top Languages Donut -->
 <a href="https://github.com/Shohruh04">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shohruh04&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shohruh04&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
 
 <br/>
 
+<!-- GitHub Trophies -->
 <div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Shohruh04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;What I Deliver
+<!-- Contribution Snake Animation -->
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- What I Do Section -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32">&nbsp; What I Deliver
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### ⚡ Performance
+<h3 align="center">⚡ Performance Optimization</h3>
 
-Lighthouse scores 95+<br/>
-Optimized bundles & lazy loading<br/>
-Lightning-fast interactions
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<br/><br/>
+
+- 🎯 Lighthouse scores **95+**
+- 📦 Code splitting & lazy loading
+- 🖼️ Image optimization & CDN
+- ⚙️ Bundle size reduction
+- 🔄 Efficient re-rendering strategies
+
+</div>
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🎨 Design
+<h3 align="center">🎨 UI/UX Excellence</h3>
 
-Pixel-perfect implementations<br/>
-Responsive across all devices<br/>
-Smooth animations & transitions
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<br/><br/>
+
+- ✨ Pixel-perfect implementations
+- 📱 Fully responsive designs
+- 🎭 Smooth micro-interactions
+- ♿ Accessibility (WCAG 2.1)
+- 🌙 Dark/Light theme support
+
+</div>
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%">
 
-### 🧩 Architecture
+<h3 align="center">🏗️ Architecture & Patterns</h3>
 
-Clean, maintainable code<br/>
-Scalable component systems<br/>
-Modern best practices
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br/><br/>
+
+- 🧩 Component-driven development
+- 📁 Scalable folder structures
+- 🔌 Custom hooks & utilities
+- 📝 Clean code principles
+- 🧪 Test-driven development
+
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">🤝 Collaboration & Leadership</h3>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<br/><br/>
+
+- 👥 Cross-functional team experience
+- 📋 Agile/Scrum methodologies
+- 🔍 Code review expertise
+- 📚 Documentation & mentoring
+- 🚀 CI/CD implementation
+
+</div>
 
 </td>
 </tr>
@@ -146,47 +276,111 @@ Modern best practices
 
 <br/>
 
-## 🌟 Current Focus
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Current Focus Section -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32">&nbsp; Current Focus & Learning
 
 <div align="center">
 
-```
-✅ Mastering advanced TypeScript patterns
-✅ Exploring micro-frontend architectures  
-✅ Contributing to open-source React projects
-✅ Building real-time collaborative applications
-✅ Optimizing web vitals and performance metrics
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
+<div align="center">
+
+| 🎯 Focus Area | 📚 Description | 📊 Progress |
+|:-------------|:--------------|:-----------:|
+| **Advanced TypeScript** | Generic patterns, type gymnastics, decorators | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80% |
+| **Micro-frontends** | Module federation, single-spa architecture | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 60% |
+| **Web3 Development** | Blockchain integration, smart contracts, dApps | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 40% |
+| **System Design** | Large-scale frontend architecture | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70% |
+| **Performance Engineering** | Core Web Vitals, runtime optimization | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90% |
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Quote Section -->
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="32">&nbsp; Dev Philosophy
 
 <div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">&nbsp; Let's Build Something Amazing
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="300">
+
+<br/><br/>
+
+<!-- Contact Cards -->
 <a href="mailto:shohruhqudratullaev2455@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shohruh-kudratullaev/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me/Shohruh04">
+  <img src="https://img.shields.io/badge/Message_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="35"/>
 </a>
 
 <br/><br/>
 
-**💼 Open for:** Freelance Projects • Remote Opportunities • Collaboration
-
-*Always excited to discuss React, frontend architecture, or innovative web projects!*
+### 💼 I'm Open For:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shohruh04&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/🚀_Full--Time_Positions-58a6ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💻_Freelance_Projects-58a6ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🤝_Open_Source_Collaboration-58a6ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🎯_Contract_Work-58a6ff?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📚_Mentorship-58a6ff?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+### 🌍 Response Time
+
+| Platform | Response Time |
+|:--------:|:-------------:|
+| 📧 Email | Within 24 hours |
+| 💼 LinkedIn | Within 12 hours |
+| 📱 Telegram | Within 2 hours |
+
+<br/>
+
+---
+
+<br/>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1f6feb,60:58a6ff,100:79c0ff&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
-
-<br/>
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
