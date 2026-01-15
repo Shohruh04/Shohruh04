@@ -388,47 +388,10 @@ const shohruh = {
 
 <br/>
 
-<!-- More Rotating Quotes with Different Styles -->
-<div align="center">
-
-<!-- Vertical Quote Cards -->
-<table>
-<tr>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Quote Dark"/>
-</td>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true" alt="Quote Algolia"/>
-</td>
-<td>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai&border=true" alt="Quote Monokai"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
 
-<br/>
-
-<!-- Fun animated quote ticker -->
-<div align="center">
-
-### 💬 Developer Wisdom Ticker
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=800&color=8b949e&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%93+Linus+Torvalds;%E2%80%9CThe+best+error+message+is+the+one+that+never+shows+up.%E2%80%9D+%E2%80%93+Thomas+Fuchs;%E2%80%9CCode+never+lies%2C+comments+sometimes+do.%E2%80%9D+%E2%80%93+Ron+Jeffries;%E2%80%9CSimplicity+is+prerequisite+for+reliability.%E2%80%9D+%E2%80%93+Edsger+Dijkstra;%E2%80%9CGood+code+is+its+own+best+documentation.%E2%80%9D+%E2%80%93+Steve+McConnell;%E2%80%9CExperience+is+the+name+everyone+gives+to+their+mistakes.%E2%80%9D+%E2%80%93+Oscar+Wilde;%E2%80%9CThe+only+way+to+learn+a+new+programming+language+is+by+writing+programs+in+it.%E2%80%9D+%E2%80%93+Dennis+Ritchie;%E2%80%9CIt's+not+a+bug+%E2%80%93+it's+an+undocumented+feature.%E2%80%9D+%E2%80%93+Anonymous;%E2%80%9CMeasuring+programming+progress+by+lines+of+code+is+like+measuring+aircraft+progress+by+weight.%E2%80%9D+%E2%80%93+Bill+Gates;%E2%80%9CThe+function+of+good+software+is+to+make+the+complex+appear+simple.%E2%80%9D+%E2%80%93+Grady+Booch" alt="Quote Ticker" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=700&color=58a6ff&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CThere+are+only+two+hard+things%3A+cache+invalidation+and+naming+things.%E2%80%9D+%E2%80%93+Phil+Karlton;%E2%80%9CThe+most+important+property+of+a+program+is+whether+it+accomplishes+the+user's+intentions.%E2%80%9D+%E2%80%93+C.A.R.+Hoare;%E2%80%9CDeleted+code+is+debugged+code.%E2%80%9D+%E2%80%93+Jeff+Sickel;%E2%80%9CA+language+that+doesn't+affect+the+way+you+think+is+not+worth+knowing.%E2%80%9D+%E2%80%93+Alan+Perlis;%E2%80%9CTruth+can+only+be+found+in+one+place%3A+the+code.%E2%80%9D+%E2%80%93+Robert+C.+Martin;%E2%80%9COptimism+is+an+occupational+hazard+of+programming.%E2%80%9D+%E2%80%93+Kent+Beck;%E2%80%9CJava+is+to+JavaScript+what+car+is+to+carpet.%E2%80%9D+%E2%80%93+Chris+Heilmann;%E2%80%9CSoftware+is+like+entropy%3A+difficult+to+grasp%2C+weighs+nothing%2C+obeys+the+2nd+law+of+thermodynamics.%E2%80%9D+%E2%80%93+Norman+Augustine" alt="Quote Ticker 2" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=900&color=79c0ff&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=30&lines=%E2%80%9CIf+debugging+is+removing+bugs%2C+then+programming+must+be+putting+them+in.%E2%80%9D+%E2%80%93+Edsger+Dijkstra;%E2%80%9CWalking+on+water+and+developing+software+from+specs+are+easy+if+both+are+frozen.%E2%80%9D+%E2%80%93+Edward+Berard;%E2%80%9CAlways+code+as+if+the+person+maintaining+your+code+is+a+violent+psychopath.%E2%80%9D+%E2%80%93+John+Woods;%E2%80%9COne+man's+crappy+software+is+another+man's+full+time+job.%E2%80%9D+%E2%80%93+Jessica+Gaston;%E2%80%9CDocumentation+is+a+love+letter+you+write+to+your+future+self.%E2%80%9D+%E2%80%93+Damian+Conway;%E2%80%9CIn+theory%2C+there's+no+difference+between+theory+and+practice.+In+practice%2C+there+is.%E2%80%9D+%E2%80%93+Yogi+Berra;%E2%80%9CThe+best+code+is+no+code+at+all.%E2%80%9D+%E2%80%93+Jeff+Atwood;%E2%80%9CFix+the+cause%2C+not+the+symptom.%E2%80%9D+%E2%80%93+Steve+Maguire" alt="Quote Ticker 3" />
-
-</div>
 
 <br/>
 
