@@ -1,142 +1,161 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shohruh%20Kudratullaev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Shohruh%20Kudratullaev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20React%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- 3D Rotating Badge -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Frontend+Engineer+%7C+React+Specialist;Building+High-Performance+Web+Applications;5%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+<!-- Animated Subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+High-Performance+Web+Applications;%E2%9C%A8+5%2B+Years+Crafting+Exceptional+User+Experiences;%F0%9F%8E%AF+React+%7C+TypeScript+%7C+Next.js+Expert" alt="Typing SVG" />
+</a>
+
+<!-- Quick Links -->
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Shohruh04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohruh-kudratullaev/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohruhqudratullaev2455@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shohruh04)
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+
+```typescript
+const shohruh: Developer = {
+    role: "Software Engineer",
+    location: "🌍 Ready for Remote Work",
+    experience: "5+ years",
+    
+    expertise: {
+        frontend: ["React", "Next.js", "TypeScript", "Redux"],
+        styling: ["Tailwind CSS", "Material UI", "Styled Components"],
+        testing: ["Jest", "React Testing Library", "Cypress"],
+        tools: ["Vite", "Webpack", "Git", "Figma"]
+    },
+    
+    currentFocus: [
+        "🔥 Advanced TypeScript Patterns",
+        "🏗️ Micro-frontend Architecture",
+        "⚡ Web Performance Optimization",
+        "🌐 Web3 & Blockchain Integration"
+    ],
+    
+    passion: "Building sleek UIs that users love ❤️"
+};
+```
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-### 🎯 **Crafting Exceptional User Experiences**
-
-*Transforming ideas into elegant, performant React applications*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Shohruh04)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohruhqudratullaev2455@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohruh-kudratullaev/)
+| Category | Technologies |
+|:--------:|:-------------|
+| **Frontend Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **State Management** | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white) |
+| **Build Tools** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) |
+| **Tools & More** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
 
 </div>
 
----
+<br/>
 
-## 🚀 **About Me**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shohruh04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shohruh04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true"/>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;What I Deliver
 
 <div align="center">
 
 <table>
-<tr><td>
-
-👨‍💻 **Role:** Software Engineer  
-🎯 **Focus:** Frontend Development, React Ecosystem, Performance Optimization  
-📚 **Currently Learning:** Advanced TypeScript Patterns, Micro-frontends, Web3  
-⚙️ **Experience:** 5+ years  
-🔥 **Passion:** Building sleek UIs and real-time, high-performance web apps  
-🤝 **Open To:** Collaboration, Open Source, Innovative Projects  
-
-</td></tr>
-</table>
-
-</div>
-
----
-
-## 💻 **Tech Arsenal**
-
-<div align="center">
-
-### **Core Technologies**
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux&theme=dark" alt="Core Tech" />
-</p>
-
-### **Styling & UI**
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,materialui,sass,css,html&theme=dark" alt="Styling" />
-</p>
-
-### **Tools & Platforms**
-<p>
-<img src="https://skillicons.dev/icons?i=vite,webpack,git,figma,jest,nodejs,mysql,tensorflow&theme=dark" alt="Tools" />
-</p>
-
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shohruh04&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shohruh04&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohruh04&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shohruh04&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎨 **What I Bring to the Table**
-
-<table align="center">
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### ⚡ **Performance**
-Optimizing React applications for lightning-fast load times and smooth interactions
+<img src="https://img.icons8.com/fluency/96/speed.png" width="60"/>
+
+### ⚡ Performance
+
+Lighthouse scores 95+<br/>
+Optimized bundles & lazy loading<br/>
+Lightning-fast interactions
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🎯 **User-Centric**
-Crafting intuitive interfaces that users love to interact with
+<img src="https://img.icons8.com/fluency/96/design.png" width="60"/>
+
+### 🎨 Design
+
+Pixel-perfect implementations<br/>
+Responsive across all devices<br/>
+Smooth animations & transitions
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🔧 **Best Practices**
-Writing clean, maintainable, and scalable code following industry standards
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+
+### 🧩 Architecture
+
+Clean, maintainable code<br/>
+Scalable component systems<br/>
+Modern best practices
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌟 **Current Focus**
-
-<div align="center">
-
-✅ Mastering advanced TypeScript patterns  
-✅ Exploring micro-frontend architectures  
-✅ Contributing to open-source React projects  
-✅ Building real-time collaborative applications  
-✅ Optimizing web vitals and performance metrics  
-
 </div>
 
----
+<br/>
 
-## 📫 **Let's Build Something Amazing**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
 
 <div align="center">
 
-**Open for freelance projects, collaborations, and full-time opportunities!**
+<a href="mailto:shohruhqudratullaev2455@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/shohruh-kudratullaev/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/📧_Email-shohruhqudratullaev2455@gmail.com-D14836?style=for-the-badge)](mailto:shohruhqudratullaev@gmail.com)
+<br/><br/>
+
+**💼 Open for:** Freelance Projects • Remote Opportunities • Collaboration
 
 *Always excited to discuss React, frontend architecture, or innovative web projects!*
 
----
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shohruh04&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Shohruh04&style=for-the-badge&color=58a6ff&label=Profile+Views"/>
 
 </div>
+
+<br/>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
