@@ -105,7 +105,7 @@ I'm **Shohruh**, a **Frontend Engineer & AI Engineer** with a focus on performan
 
 I'm open to **full-time roles, freelance projects, open-source collaboration, and mentorship**.
 
-**Have a project in mind?** Reach out on [LinkedIn](https://www.linkedin.com/in/shohruh-kudratullaev/), [Telegram](https://t.me/Shohruh04), or [email](mailto:shohruhqudratullaev2455@gmail.com).
+**Have a project in mind?** Reach out on [LinkedIn](https://www.linkedin.com/in/shohruh-kudratullaev/), [Telegram](https://t.me/shohruhcodes), or [email](mailto:shohruhqudratullaev2455@gmail.com).
 
 <p align="center"><sub>Thanks for stopping by. If something here helps you, a star is always appreciated.</sub></p>
 
