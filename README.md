@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<p><strong>React specialist · AI Engineer · UI/UX enthusiast</strong></p>
+<p><strong>Frontend Engineer · AI Engineer · UI/UX enthusiast</strong></p>
 <p>Building fast, accessible web experiences and practical AI solutions.</p>
 
 <p>
@@ -24,12 +24,12 @@
 
 ## About Me
 
-I'm **Shohruh**, a **Frontend Engineer & AI Engineer** with a focus on React, performance, and thoughtful user interfaces.
+I'm **Shohruh**, a **Frontend Engineer & AI Engineer** with a focus on performance, accessible interfaces, and practical AI solutions.
 
-- **Building:** scalable, accessible React applications and practical AI solutions.
+- **Building:** scalable, accessible web applications and practical AI solutions.
 - **Learning:** advanced TypeScript and system design.
 - **Collaborating:** frontend, AI, and open-source projects.
-- **Happy to discuss:** React, performance optimization, and UI/UX.
+- **Happy to discuss:** frontend development, performance optimization, and UI/UX.
 - **Open to:** remote opportunities and relocation.
 
 ## Tech Stack
