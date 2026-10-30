@@ -9,7 +9,7 @@
 <p>
   <a href="https://www.linkedin.com/in/shohruh-kudratullaev/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shohruhqudratullaev2455@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/Shohruh04"><img alt="Message me on Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/shohruhcodes"><img alt="Message me on Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p>
